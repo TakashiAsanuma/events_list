@@ -2,7 +2,7 @@
 The Dates are local timezone.
 
 | Start | End | Title | Country | City | Location | Fee | URL |
-| --- | --- | --- | --- | --- | -------------------------- | --- | --- |
+| --- | --- | --- | --- | --- | -------------------------------------- | ---------- | --- |
 | 20/04/2023 | 21/04/2023 | AWS Summit Tokyo | JP | Tokyo | 幕張メッセ + オンデマンド配信 | Free | https://aws.amazon.com/jp/summits/tokyo/ |
 | 11/05/2023 | 13/05/2023 | RubyKaigi 2023 | JP | Nagano | 松本市民芸術館 + Online | 20,000円 | https://rubykaigi.org/2023/ |
 | 23/05/2023 | 25/05/2023 | Google Cloud Day ’23 Tour | JP | Tokyo | Online | Free | https://aws.amazon.com/jp/summits/tokyo/ |
@@ -17,4 +17,6 @@ The Dates are local timezone.
 | 26/09/2023 | 28/09/2023 | KubeCon + CloudNativeCon + Open Source Summit China | CN | Shanghai | Online & TBA | Early Bird: $54 (Individual)  | https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/ |
 | 17/10/2023 | 19/10/2023 | OCP Global Summit 2023 | US | SA | Onsite | Early Bird: $700 | https://www.opencompute.org/summit/global-summit |
 | 06/11/2023 | 09/11/2023 | KubeCon + CloudNativeCon North America | US | Chicago | Onsite + Online | Early Bird: $598(Individual) <BR> Virtula: $15 | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/ |
+| 08/11/2023 | 09/11/2023 | Github Universe | US | SA | Onsite + Online | | https://githubuniverse.com/ |
+| 13/11/2023 | 15/11/2023 | React Summit North America | US | NY | Onsite + Online | Remote Full Ticket with multipass €17/month | https://githubuniverse.com/ |
 | 05/12/2023 | 05/12/2023 | Open Source Summit Japan | JP | Tokyo | Onsite + Online | Early Bird: $375(In-Person) <BR> $125(Hobbyist) <BR> Virtula: $25 | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/ |
