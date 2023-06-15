@@ -1,8 +1,14 @@
 # Events in Y2023
 The Dates are local timezone.
 
-| Start | End | Title | Country | City | State | Fee | URL |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Start | End | Title | Country | City | Location | Fee | URL |
+| --- | --- | --- | --- | --- | -------------------------- | --- | --- |
+| 20/04/2023 | 21/04/2023 | AWS Summit Tokyo | JP | Tokyo | 幕張メッセ + オンデマンド配信 | Free | https://aws.amazon.com/jp/summits/tokyo/ |
+| 11/05/2023 | 13/05/2023 | RubyKaigi 2023 | JP | Nagano | 松本市民芸術館 + Online | 20,000円 | https://rubykaigi.org/2023/ |
+| 23/05/2023 | 25/05/2023 | Google Cloud Day ’23 Tour | JP | Tokyo | Online | Free | https://aws.amazon.com/jp/summits/tokyo/ |
+| 02/06/2023 | 03/06/2023 | UNREAL FEST 2023 TOKYO | JP | Tokyo | 秋葉原 | Free | https://unrealengine.jp/unrealfest/2023/ |
+| 02/06/2023 | 02/06/2023 | Go Conference 2023 Online | JP | NA | Online | Free | https://gocon.jp/2023/ |
+| 07/07/2023 | 07/07/2023 | TiDB User Day | JP | Tokyo | Onsite + Online | Free | https://unrealengine.jp/unrealfest/2023/ |
 | 21/08/2023 | 24/08/2023 | CloudNative Days Fukuoka 2023 | JP | Fukuoka| 博多国際展示場カンファレンスセンター+ Online |  | https://event.cloudnativedays.jp/cndf2023 |
 | 29/08/2023 | 31/08/2023 | Google Nexr'23 | US | SA |  | Full Price: $1,599 <BR> Digital Only: Coming Soon | https://cloud.withgoogle.com/next |
 | ??/08/2023 | ??/08/2023 | Cloud Operator Days Tokyo 2023 | JP | Tokyo | Online & TBA |  | https://cloudopsdays.com/ |
