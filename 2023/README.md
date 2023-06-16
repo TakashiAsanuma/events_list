@@ -2,7 +2,7 @@
 The Dates are local timezone.
 
 | Start | End | Title | Country | City | Location | Fee | URL |
-| --- | --- | --- | --- | --- | -------------------------------------- | ---------- | --- |
+| --- | --- | ------------------------------------- | --- | --- | ------------------------------------------------- | ----------------- | ----------------- |
 | 20/04/2023 | 21/04/2023 | AWS Summit Tokyo | JP | Tokyo | 幕張メッセ + オンデマンド配信 | Free | https://aws.amazon.com/jp/summits/tokyo/ |
 | 11/05/2023 | 13/05/2023 | RubyKaigi 2023 | JP | Nagano | 松本市民芸術館 + Online | 20,000円 | https://rubykaigi.org/2023/ |
 | 23/05/2023 | 25/05/2023 | Google Cloud Day ’23 Tour | JP | Tokyo | Online | Free | https://aws.amazon.com/jp/summits/tokyo/ |
