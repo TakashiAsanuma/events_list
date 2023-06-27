@@ -8,6 +8,7 @@ The Dates are local timezone.
 | 23/05/2023 | 25/05/2023 | Google Cloud Day ’23 Tour | JP | Tokyo | Online | Free | https://aws.amazon.com/jp/summits/tokyo/ |
 | 02/06/2023 | 03/06/2023 | UNREAL FEST 2023 TOKYO | JP | Tokyo | 秋葉原 | Free | https://unrealengine.jp/unrealfest/2023/ |
 | 02/06/2023 | 02/06/2023 | Go Conference 2023 Online | JP | NA | Online | Free | https://gocon.jp/2023/ |
+| 05/07/2023 | 07/07/2023 | JANOG 52 | JP | Nagasaki | Onsite + Online | Free | https://www.janog.gr.jp/meeting/janog52/ |
 | 07/07/2023 | 07/07/2023 | TiDB User Day | JP | Tokyo | Onsite + Online | Free | https://unrealengine.jp/unrealfest/2023/ |
 | 21/08/2023 | 24/08/2023 | CloudNative Days Fukuoka 2023 | JP | Fukuoka| 博多国際展示場カンファレンスセンター+ Online |  | https://event.cloudnativedays.jp/cndf2023 |
 | 29/08/2023 | 31/08/2023 | Google Next'23 | US | SA | Onsite + Online | Full Price: $1,599 <BR> Digital Only: Coming Soon | https://cloud.withgoogle.com/next |
