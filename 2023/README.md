@@ -15,6 +15,7 @@ The Dates are local timezone.
 | ??/08/2023 | ??/08/2023 | Cloud Operator Days Tokyo 2023 | JP | Tokyo | Online & TBA |  | https://cloudopsdays.com/ |
 | 06/09/2023 | 07/09/2023 | Rust Global + WasmCon | US | Bellevue | Onsite + Online | $199(Hobbyist) | https://events.linuxfoundation.org/rust-global/ |
 | 19/09/2023 | 21/09/2023 | Open Source Summit Europe | ES | BILBAO | Onsite + Online | $275(Hobbyist) | https://events.linuxfoundation.org/open-source-summit-europe/ |
+| 20/09/2023 | 20/09/2023 | gRPC Conf 2023 | NA | CA | Onsite | $50(Early Bird), $99(Standard) | https://events.linuxfoundation.org/grpc-conf/ |
 | 26/09/2023 | 28/09/2023 | KubeCon + CloudNativeCon + Open Source Summit China | CN | Shanghai | Online & TBA | Early Bird: $54 (Individual)  | https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/ |
 | 17/10/2023 | 19/10/2023 | OCP Global Summit 2023 | US | SA | Onsite | Early Bird: $700 | https://www.opencompute.org/summit/global-summit |
 | 28/10/2023 | 28/10/2023 | Vue Fes Japan | JP | Tokyo |  |  | https://vuefes.jp/2023/ |
