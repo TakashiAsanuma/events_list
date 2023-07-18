@@ -13,7 +13,7 @@ The Dates are local timezone.
 | 21/08/2023 | 24/08/2023 | CloudNative Days Fukuoka 2023 | JP | Fukuoka| Onsite + Online | Free | https://event.cloudnativedays.jp/cndf2023 |
 | 29/08/2023 | 31/08/2023 | Google Next'23 | US | SA | Onsite + Online | Full Price: $1,599 <BR> Digital Only: Coming Soon | https://cloud.withgoogle.com/next |
 | ??/08/2023 | ??/08/2023 | Cloud Operator Days Tokyo 2023 | JP | Tokyo | Online & TBA | - | https://cloudopsdays.com/ |
-| 06/09/2023 | 07/09/2023 | Rust Global + WasmCon | US | Bellevue | Onsite + Online | $199(Hobbyist) | https://events.linuxfoundation.org/rust-global/ |
+| 06/09/2023 | 07/09/2023 | Rust Global + WasmCon | US | Bellevue | Onsite | $199(Hobbyist) | https://events.linuxfoundation.org/rust-global/ |
 | 19/09/2023 | 21/09/2023 | Open Source Summit Europe | ES | BILBAO | Onsite + Online | Free(Virtual) | https://events.linuxfoundation.org/open-source-summit-europe/ |
 | 20/09/2023 | 20/09/2023 | gRPC Conf 2023 | NA | CA | Onsite | $50(Early Bird), $99(Standard) | https://events.linuxfoundation.org/grpc-conf/ |
 | 21/09/2023 | 22/09/2023 | HTAP Summit | NA | CA | Onsite | - | https://www.pingcap.com/htap-summit/ |
