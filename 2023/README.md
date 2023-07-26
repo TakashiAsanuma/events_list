@@ -12,6 +12,7 @@ The Dates are local timezone.
 | ✔ | 07/07/2023 | 07/07/2023 | TiDB User Day | JP | Tokyo | Onsite + Online | Free | https://pingcap.co.jp/tidb-user-day-2023-thank-you/ |
 | | 27/07/2023 | 27/07/2023 | Developers Summit 2023 Summer | JP | Tokyo | Online | Free | https://event.shoeisha.jp/devsumi/20230727 |
 | | 03/08/2023 | 03/08/2023 | CloudNative Days Fukuoka 2023 | JP | Fukuoka| Onsite + Online | Free | https://event.cloudnativedays.jp/cndf2024 |
+| | 28/08/2023 | 28/08/2023 | MySQL Innovation Day Tokyo 2023 | JP | Tokyo | Onsite | Free | https://www.oracle.com/jp/events/mysql-day/ |
 | | 29/08/2023 | 31/08/2023 | Google Next'23 | US | SA | Onsite + Online | Full Price: $1,599 <BR> Digital Only: Coming Soon | https://cloud.withgoogle.com/next |
 | | ??/08/2023 | ??/08/2023 | Cloud Operator Days Tokyo 2023 | JP | Tokyo | Online & TBA | - | https://cloudopsdays.com/ |
 | | 06/09/2023 | 07/09/2023 | Rust Global + WasmCon | US | Bellevue | Onsite | $199(Hobbyist) | https://events.linuxfoundation.org/rust-global/ |
