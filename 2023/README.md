@@ -26,5 +26,6 @@ The Dates are local timezone.
 | | 06/11/2023 | 09/11/2023 | KubeCon + CloudNativeCon North America | US | Chicago | Onsite + Online | Early Bird: $598(Individual) <BR> Virtula: $15 | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/ |
 | | 08/11/2023 | 09/11/2023 | Github Universe | US | SA | Onsite + Online | | https://githubuniverse.com/ |
 | | 13/11/2023 | 15/11/2023 | React Summit North America | US | NY | Onsite + Online | Remote Full Ticket with multipass €17/month | https://githubuniverse.com/ |
+| | 15/11/2023 | 16/11/2023 | Google Cloud Next Tokyo ’23 | JP | Tokyo | Onsite | Free | https://cloudonair.withgoogle.com/events/next-tokyo |
 | | 23/11/2023 | 01/12/2023 | AWS re:Invent | US | Las Vegas | Onsite | $2,099 | https://reinvent.awsevents.com/ |
 | | 05/12/2023 | 05/12/2023 | Open Source Summit Japan | JP | Tokyo | Onsite + Online | Early Bird: $375(In-Person) <BR> $125(Hobbyist) <BR> Virtula: $25 | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/ |
