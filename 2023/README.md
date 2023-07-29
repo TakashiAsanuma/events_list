@@ -8,11 +8,11 @@ The Dates are local timezone.
 | ✔ | 23/05/2023 | 25/05/2023 | Google Cloud Day ’23 Tour | JP | Tokyo | Online | Free | https://aws.amazon.com/jp/summits/tokyo/ |
 | ✔ | 02/06/2023 | 03/06/2023 | UNREAL FEST 2023 TOKYO | JP | Tokyo | Onsite | Free | https://unrealengine.jp/unrealfest/2023/ |
 | - | 02/06/2023 | 02/06/2023 | Go Conference 2023 Online | JP | NA | Online | Free | https://gocon.jp/2023/ |
-| -| 05/07/2023 | 07/07/2023 | JANOG 52 | JP | Nagasaki | Onsite + Online | Free | https://www.janog.gr.jp/meeting/janog52/ |
+| - | 05/07/2023 | 07/07/2023 | JANOG 52 | JP | Nagasaki | Onsite + Online | Free | https://www.janog.gr.jp/meeting/janog52/ |
 | ✔ | 07/07/2023 | 07/07/2023 | TiDB User Day | JP | Tokyo | Onsite + Online | Free | https://pingcap.co.jp/tidb-user-day-2023-thank-you/ |
-| | 27/07/2023 | 27/07/2023 | Developers Summit 2023 Summer | JP | Tokyo | Online | Free | https://event.shoeisha.jp/devsumi/20230727 |
-| | 03/08/2023 | 03/08/2023 | CloudNative Days Fukuoka 2023 | JP | Fukuoka| Onsite + Online | Free | https://event.cloudnativedays.jp/cndf2024 |
-| | 28/08/2023 | 28/08/2023 | MySQL Innovation Day Tokyo 2023 | JP | Tokyo | Onsite | Free | https://www.oracle.com/jp/events/mysql-day/ |
+| ✔ | 27/07/2023 | 27/07/2023 | Developers Summit 2023 Summer | JP | Tokyo | Online | Free | https://event.shoeisha.jp/devsumi/20230727 |
+| - | 03/08/2023 | 03/08/2023 | CloudNative Days Fukuoka 2023 | JP | Fukuoka| Onsite + Online | Free | https://event.cloudnativedays.jp/cndf2024 |
+| - | 28/08/2023 | 28/08/2023 | MySQL Innovation Day Tokyo 2023 | JP | Tokyo | Onsite | Free | https://www.oracle.com/jp/events/mysql-day/ |
 | | 29/08/2023 | 31/08/2023 | Google Next'23 | US | SA | Onsite + Online | Full Price: $1,599 <BR> Digital Only: Coming Soon | https://cloud.withgoogle.com/next |
 | | ??/08/2023 | ??/08/2023 | Cloud Operator Days Tokyo 2023 | JP | Tokyo | Online & TBA | - | https://cloudopsdays.com/ |
 | | 06/09/2023 | 07/09/2023 | Rust Global + WasmCon | US | Bellevue | Onsite | $199(Hobbyist) | https://events.linuxfoundation.org/rust-global/ |
